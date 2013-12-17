@@ -1,6 +1,6 @@
 	var path = "http://www.ninjastatus.com/last_stop/Brooklyn/"
 	var stations = [
-	// Brooklyn
+	// Brooklyn Coords
 	{ loc: "1919,3571,16", name: "Coney Island/ Stillwell Av", line: ["D", "F", "N", "Q"], imgName: [ path + "coney_island_stillwell_avenue_d_f_n_q.jpg" ]},
     { loc: "1957,3551,16", name: "West 8 st/ NY Aquarium", line: ["F", "Q"], imgName: [ path + "west_8_street_new_york_aquarium_f_q.jpg", path + "west_8_street_new_york_aquarium_f_q-2.jpg" ]},
     { loc: "2020,3506,16", name: "Ocean Pkwy", line: ["Q"], imgName: [ path + "ocean_parkway_q.jpg", path + "ocean_parkway_q-2.jpg", path + "ocean_parkway_q-3.jpg" ]},
